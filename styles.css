@@ -33,11 +33,11 @@ img {
 }
 
 .mcpp2020 {
-    color: #001c99; text-align: center; background:yellow; width: 400px; align-items: left; padding: 10px;
+    color: #001c99; text-align: center; background:yellow; width: 500px; align-items: left; padding: 2px;
 }
 
 .second      {
-    color: black; text-align: center; width: 500px; align-self
+    color: black; text-align: center; width: 500px; align-items: left; padding: 5px;
 }
 
 /* This tip via: https://www.yourhtmlsource.com/stylesheets/cssspacing.html */
